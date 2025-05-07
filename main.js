@@ -1,5 +1,5 @@
 var typed = new Typed(".text", {
-    strings: ["Halo Kawan","Terkadang Seseorang","Membutuhkan Yang Buruk","Untuk Mendapatkan","Sesuatu Yang Terbaik","Dan Ingatlah","Jangan Pernah","Melihat Sesuatu","Dari Luarnya Saja","Ingat Gudang Garam","Isinya Rokok Bukan","Tumpukan Garam!!"],
+    strings: ["Halo!! It`sMe AlwaysZuroku : Pembahasan Tentang JavaScript Yang Di Gunakan Untuk Membuat Bot WhatsApp Dengan Jangka Waktu Yang Tidak Di Tentukan Pecinta Bahasa Pemrograman / Orang Yang Memahami Tentang Bahasa Pemrograman Akan Faham Tentang Beberapa Methode Dalam Ilmu Tersebut Contoh Saja : JavaScript, HTML, Css, Python Dll"],
     typeSpeed: 80,
     backSpeed: 40,
     backDelay: 30,
